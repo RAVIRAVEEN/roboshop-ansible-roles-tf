@@ -1,6 +1,6 @@
 MONGODB_HOST: mongodb-dev.devopsrank.online
 REDIS_HOST: redis-dev.devopsrank.online
-CATALOGUE_HOST: catalogue-dev.devopsrank.online
+CATALOGUE_HOST: catalogue.app-dev.devopsrank.online
 USER_HOST: user-dev.devopsrank.online
 CART_HOST: cart-dev.devopsrank.online
 SHIPPING_HOST: shipping-dev.devopsrank.online
