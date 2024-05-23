@@ -17,9 +17,9 @@
         state: started
         enabled: yes 
 
-   - name: create roboshop
-     ansible.builtin.user:
-      name: roboshop
+  #  - name: create roboshop
+  #    ansible.builtin.user:
+  #     name: roboshop
         
    - name: create rabbitmq user
      community.rabbitmq.rabbitmq_user:
