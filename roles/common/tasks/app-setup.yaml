@@ -23,8 +23,8 @@
 
   - name: "Download artifact from nexus"
     ansible.builtin.get_url:
-      url: "{{NEXUS_URL}}/{{component}}/{{group_id}}/{{component}}/{{app_version}}/{{component}}-{{app_version}}.zip"
-      dest: /tmp
+       url: "{{NEXUS_URL}}/{{component}}/{{group_id}}/{{component}}/{{app_version}}/{{component}}-{{app_version}}.zip"
+       dest: /tmp
 
   - name: "extract {{component}} application"
     ansible.builtin.unarchive:
