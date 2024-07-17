@@ -10,4 +10,4 @@ PAYMENTS_HOST: payments-prod.devopsrank.online
 WEB_HOST: web-prod.devopsrank.online
 DISPATCH_HOST: dispatch-prod.devopsrank.online
 NEXUS_URL: http://172.31.45.35:8081/
-group_id: "com.roboshop"
+group_id: "com/roboshop"
