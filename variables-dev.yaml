@@ -9,5 +9,5 @@ RABBITMQ_HOST: rabbitmq-dev.devopsrank.online
 PAYMENTS_HOST: payments.app-dev.devopsrank.online
 #WEB_HOST: web-dev.devopsrank.online
 DISPATCH_HOST: dispatch.app-dev.devopsrank.online
-NEXUS_URL: http://172.31.45.35:8081/
+NEXUS_URL: http://172.31.45.35:8081/repository/
 group_id: "com.roboshop"
